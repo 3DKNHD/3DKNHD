@@ -1,30 +1,32 @@
-<img src="banner.png" alt="Derek Naharai Herrera Domínguez. Estudiante de Ingeniería en Informáticas. Python, Django, Next.js. Remoto." width="100%">
+<img src="banner.png" alt="Derek Naharai Herrera Domínguez. Informatics Engineering student. Python, Django, Next.js. Remote." width="100%">
 
-Estudiante de Ingeniería en Informáticas. Disponible para trabajo remoto y proyectos por encargo.
+I'm an Informatics Engineering student, available for remote work and contract projects.
 
-El [planificador de eventos](https://planificador-eventos-production-4dd0.up.railway.app/projects) es una colaboración.
+The [event planner](https://planificador-eventos-production-4dd0.up.railway.app/projects) is a collaboration: a Next.js app with a critical-path engine and a Gantt chart, live now.
 
-## Proyectos
+## Projects
 
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/3DKNHD/N2LPI-Natural-Language-to-Propositional-Logic-Interface"><img src="card-n2lpi.png" alt="N2LPI. Español a lógica proposicional. 69/70 en la prueba separada."></a>
+<a href="https://github.com/3DKNHD/N2LPI-Natural-Language-to-Propositional-Logic-Interface"><img src="card-n2lpi.png" alt="N2LPI. Spanish to propositional logic. 69/70 on the held-out test."></a>
 </td>
 <td width="50%">
-<a href="https://github.com/3DKNHD/AlmostBrewed"><img src="card-almost.png" alt="AlmostBrewed. Curso de Java en el navegador, de cero a POO, UML y Swing."></a>
+<a href="https://github.com/3DKNHD/AlmostBrewed"><img src="card-almost.png" alt="AlmostBrewed. Java course in the browser, from scratch to OOP, UML, and Swing."></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://3dknhd.github.io/simulab/"><img src="card-simulab.png" alt="SimuLab. Laboratorio de química, con demo en línea."></a>
+<a href="https://3dknhd.github.io/simulab/"><img src="card-simulab.png" alt="SimuLab. Chemistry lab simulator, live demo."></a>
 </td>
 <td width="50%">
-<a href="https://github.com/3DKNHD/LMOJ"><img src="card-lmoj.png" alt="LMOJ. Juez de programación local, estilo DMOJ."></a>
+<a href="https://github.com/3DKNHD/LMOJ"><img src="card-lmoj.png" alt="LMOJ. Local programming judge, DMOJ-style."></a>
 </td>
 </tr>
 </table>
 
-[DMOJ, unos 350 problemas resueltos](https://dmoj.uclv.edu.cu/user/Hd/solved) · [Telegram](https://t.me/Naharai_06) · derekhd05@gmail.com
+[DMOJ, about 350 solved](https://dmoj.uclv.edu.cu/user/Hd/solved) · [Telegram](https://t.me/Naharai_06) · derekhd05@gmail.com
 
-También: [diagonalización de matrices](https://github.com/3DKNHD/Simple-Diagonalization-App) · [soluciones en DMOJ](https://github.com/3DKNHD/Dmoj-CU-Solutions)
+Also: [matrix diagonalization](https://github.com/3DKNHD/Simple-Diagonalization-App) · [DMOJ solutions](https://github.com/3DKNHD/Dmoj-CU-Solutions)
+
+También trabajo en español. Remoto y proyectos por encargo.
