@@ -1,8 +1,8 @@
 <img src="banner.png" alt="Derek Naharai Herrera Domínguez. Estudiante de Ingeniería en Informáticas. Python, Django, Next.js. Remoto." width="100%">
 
-Estudiante de Ingeniería en Informáticas en la Universidad de Holguín. Busco trabajo remoto y proyectos por encargo.
+Estudiante de Ingeniería en Informáticas. Disponible para trabajo remoto y proyectos por encargo.
 
-El punto de venta y el inventario están en uso. El código no es público. El [planificador de eventos](https://planificador-eventos-production-4dd0.up.railway.app/projects) es una colaboración.
+El [planificador de eventos](https://planificador-eventos-production-4dd0.up.railway.app/projects) es una colaboración.
 
 ## Proyectos
 
@@ -25,6 +25,6 @@ El punto de venta y el inventario están en uso. El código no es público. El [
 </tr>
 </table>
 
-[DMOJ, unos 350 problemas](https://dmoj.uclv.edu.cu/user/Hd/solved) · [Telegram](https://t.me/Naharai_06) · derekhd05@gmail.com
+[DMOJ, unos 350 problemas resueltos](https://dmoj.uclv.edu.cu/user/Hd/solved) · [Telegram](https://t.me/Naharai_06) · derekhd05@gmail.com
 
 También: [diagonalización de matrices](https://github.com/3DKNHD/Simple-Diagonalization-App) · [soluciones en DMOJ](https://github.com/3DKNHD/Dmoj-CU-Solutions)
