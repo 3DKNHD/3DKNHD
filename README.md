@@ -22,10 +22,16 @@
 <table>
 <tr>
 <td width="50%">
-<img src="stats-github.png" alt="Public repos 10. Followers 8. Stars on public repos 17. Held-out parser score 69/70." width="100%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="stats-github-dark.png">
+<img src="stats-github-light.png" alt="Public repos 10. Followers 8. Stars on public repos 17." width="100%">
+</picture>
 </td>
 <td width="50%">
-<img src="stats-langs.png" alt="Languages: Python, Java, JavaScript, TypeScript, and C++." width="100%">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="stats-langs-dark.png">
+<img src="stats-langs-light.png" alt="Languages: Python, Java, JavaScript, TypeScript, and C++." width="100%">
+</picture>
 </td>
 </tr>
 </table>
@@ -41,18 +47,30 @@ The [event planner](https://planificador-eventos-production-4dd0.up.railway.app/
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/3DKNHD/N2LPI-Natural-Language-to-Propositional-Logic-Interface"><img src="n2lpi.png" alt="N2LPI. Translate Spanish sentences into classical propositional logic formulas. Python."></a>
+<a href="https://github.com/3DKNHD/N2LPI-Natural-Language-to-Propositional-Logic-Interface"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="n2lpi-dark.png">
+<img src="n2lpi.png" alt="N2LPI. Translate Spanish sentences into classical propositional logic formulas. Python." width="100%">
+</picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/3DKNHD/AlmostBrewed"><img src="almost.png" alt="AlmostBrewed. Browser course for learning Java from scratch through OOP, UML, and Swing."></a>
+<a href="https://github.com/3DKNHD/AlmostBrewed"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="almost-dark.png">
+<img src="almost.png" alt="AlmostBrewed. Browser course for learning Java from scratch through OOP, UML, and Swing." width="100%">
+</picture></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/3DKNHD/simulab"><img src="simulab.png" alt="simulab. Chemistry lab simulator in the browser."></a>
+<a href="https://github.com/3DKNHD/simulab"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="simulab-dark.png">
+<img src="simulab.png" alt="simulab. Chemistry lab simulator in the browser." width="100%">
+</picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/3DKNHD/LMOJ"><img src="lmoj.png" alt="LMOJ. Local DMOJ-style judge: statements, submissions, and verdicts."></a>
+<a href="https://github.com/3DKNHD/LMOJ"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="lmoj-dark.png">
+<img src="lmoj.png" alt="LMOJ. Local DMOJ-style judge: statements, submissions, and verdicts." width="100%">
+</picture></a>
 </td>
 </tr>
 </table>
