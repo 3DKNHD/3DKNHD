@@ -79,6 +79,6 @@ The [event planner](https://planificador-eventos-production-4dd0.up.railway.app/
 
 [DMOJ, about 350 solved](https://dmoj.uclv.edu.cu/user/Hd/solved) · [DMOJ solutions](https://github.com/3DKNHD/Dmoj-CU-Solutions) · [matrix diagonalization](https://github.com/3DKNHD/Simple-Diagonalization-App)
 
-[Telegram](https://t.me/Naharai_06) · [derekhd05@gmail.com](mailto:derekhd05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/derek-naharai-herrera/) · [Telegram](https://t.me/Naharai_06) · [derekhd05@gmail.com](mailto:derekhd05@gmail.com)
 
 También trabajo en español. Remoto y proyectos por encargo.
